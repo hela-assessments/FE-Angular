@@ -12,7 +12,14 @@
  level 6 -> make the above form( level 5) reactive  
  
  
+ 
  #### notice: we have used highcharts for the purpose of demonstration but you can choose any other chart library like chartjs
  
- ## Good luck and have fun ):
+ # collaboration
+ 1- Clone the repo  
+ 2- Push to a new branch with this naming convention <b>"yourSurname-targetGoal"</b> exmpl. <b>"alavi-3"</b>  
+ 
+## Good luck and have fun ):  
+ 
+ 
  
