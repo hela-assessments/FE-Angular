@@ -3,8 +3,8 @@
 
 
 # Assessment Description
-<b>There are couple of levels that you can choose as your goal ( or your are assigned to )</b>  
- level 1 -> create a foldable sidebar and main Dashboard and two routes on "/" and "/posts" and footeter and header   without any contetnt
+<b>There are couple of levels that you can choose as your goal ( or your are assigned to )</b>    
+ level 1 -> create the foldable sidebar and main Dashboard and two routes on "/" and "/posts" without any contetnt  
  level 2 -> add the full-size  chart to dashboard ( https://www.highcharts.com/demo/area-stacked )  
  level 3 -> add four boxed charts and the pie chart (https://www.highcharts.com/demo/pie-basic )  
  level 4 -> add responsive table with paggination and dummy datas which are loaded from assets/dummy.json  
